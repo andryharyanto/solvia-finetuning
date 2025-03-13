@@ -1,0 +1,7 @@
+jupyter
+ipywidgets
+ipython
+openai
+python-dotenv
+google-generativeai
+pandas
