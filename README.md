@@ -25,6 +25,7 @@ Stock LLMs tend to be verbose, even after careful prompting:
 - Feed past interactions
 - Analytics and emotional pattern insights
 - Dashboard or integration with counselor workflow
+- Eval pipeline for finetuned model
 
 ## **Output Comparison**
 | **Model**                      | **Response** |
@@ -129,7 +130,7 @@ Even after stopping, AI can keep momentum going through passive follow-ups:
 ---
 
 ## **Step 3: Defining Scenarios for Fine-Tuning**
-To train Solvia effectively, I designed sample interactions that demonstrate **concise, structured coaching conversations** rather than defaulting to verbose AI behavior. These scenarios are tailored for **career coaching and therapy-adjacent coaching settings**.
+To train Solvia effectively, I designed sample interactions that demonstrate **concise, structured coaching conversations** rather than defaulting to verbose AI behavior. These scenarios are tailored for **career coaching and therapy-adjacent coaching settings**, but can be modified for other settings.
 
 | Pathway                   | Number of Exchanges | Goal                                                        | Stopping Point                                              | Scenario |
 |---------------------------|---------------------|-------------------------------------------------------------|------------------------------------------------------------|----------|
@@ -144,9 +145,9 @@ To train Solvia effectively, I designed sample interactions that demonstrate **c
 
 
 ## **Step 4: Generating Fine-Tuning Data**
-The data is a **mix of human-generated and synthetic training data**, using structured prompts to guide the AI model towards **concise, helpful responses**.  
+The data is a **mix of human-generated and synthetic training data**, using structured prompts to guide the AI model towards **concise, helpful responses**. 
 
-To generate this dataset, I leveraged the more **creative** LLMs like Claude, GPT-4.5, and Gemini-2.0.  
+To generate this dataset, I leveraged the more **creative** LLMs like Claude, GPT-4.5, and Gemini-2.0 using the scenarios defined in Step 3.
 
 ---
 
