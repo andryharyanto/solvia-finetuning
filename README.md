@@ -132,6 +132,8 @@ Even after stopping, AI can keep momentum going through passive follow-ups:
 ## **Step 3: Defining Scenarios for Fine-Tuning**
 To train Solvia effectively, I designed sample interactions that demonstrate **concise, structured coaching conversations** rather than defaulting to verbose AI behavior. These scenarios are tailored for **career coaching and therapy-adjacent coaching settings**, but can be modified for other settings.
 
+_Examples:_
+
 | Pathway                   | Number of Exchanges | Goal                                                        | Stopping Point                                              | Scenario |
 |---------------------------|---------------------|-------------------------------------------------------------|------------------------------------------------------------|----------|
 | Quick Check-In            | 1-3                 | Light-touch interaction for mood updates or progress tracking | Brief reflection or action suggestion                      | User Feels Motivated & Wants to Keep Momentum → AI acknowledges progress, reinforces motivation, and offers a small next step. |
