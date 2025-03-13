@@ -16,6 +16,7 @@ Traditional journaling remains **a one-way process**, unchanged for decades. Sol
 Stock LLMs tend to be verbose, even after careful prompting:
 - Often offering unsolicited advice or resources
 - Often dragging the conversations, rather than driving towards a natural stopping points within 3-4 exchanges
+This tendency creates a risk of violating the relationship boundary and principle, which is using **AI as a Personalized Guide, Not a Fake Therapist**.
 
 ## **Demo**
 [solvia.lovable.app](https://solvia.lovable.app/) (You can compare the fine-tuned model vs. stock GPT by changing the LLM in Settings)
