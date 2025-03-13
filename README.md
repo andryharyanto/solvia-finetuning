@@ -45,16 +45,16 @@ Stock LLMs tend to be verbose, even after careful prompting:
 
 I collaborated with counselors to define **AI interaction guidelines**, ensuring that Solvia serves as a **supportive tool, not a human replacement.**
 
-### ** AI as a Personalized Guide, Not a Fake Therapist**
+### **AI as a Personalized Guide, Not a Fake Therapist**
 ✅ AI should act as a **structured reflection tool**, never mimicking a human therapist.  
 ✅ It should adapt its **tone and engagement style** based on client preferences.
 
-### ** Tone & Personalization: Balanced, Supportive, and Adaptive**
+### **Tone & Personalization: Balanced, Supportive, and Adaptive**
 ✅ Avoid robotic or overly formal tones—clients should feel like they’re engaging with a **smart, supportive tool**, not a form.  
 ✅ Avoid excessive warmth or fake empathy—AI should **guide, not pretend to "understand" emotions.**  
 ✅ Adaptive tone—**structured for engaged clients, gently encouraging for those struggling.**
 
-** » Examples of Adaptive Responses**
+**Examples of Adaptive Responses**
 - **For engaged clients completing exercises:**  
   *"Great progress! Want to try challenging a slightly tougher thought today?"*
 - **For clients avoiding exercises multiple times:**  
