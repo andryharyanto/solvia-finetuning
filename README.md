@@ -18,7 +18,7 @@ Stock LLMs tend to be verbose, even after careful prompting:
 - Often dragging the conversations, rather than driving towards a natural stopping points within 3-4 exchanges
 
 ## **Demo**
-[solvia.lovable.dev](solvia.lovable.dev) (You can compare the fine-tuned model vs. stock GPT by changing the LLM in Settings)
+[solvia.lovable.app](https://solvia.lovable.app/) (You can compare the fine-tuned model vs. stock GPT by changing the LLM in Settings)
 
 ## **Future Work**
 - Voice input (even more frictionless)
