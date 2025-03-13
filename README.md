@@ -45,29 +45,29 @@ Stock LLMs tend to be verbose, even after careful prompting:
 
 I collaborated with counselors to define **AI interaction guidelines**, ensuring that Solvia serves as a **supportive tool, not a human replacement.**
 
-### **🔹 AI as a Personalized Guide, Not a Fake Therapist**
+### ** AI as a Personalized Guide, Not a Fake Therapist**
 ✅ AI should act as a **structured reflection tool**, never mimicking a human therapist.  
 ✅ It should adapt its **tone and engagement style** based on client preferences.
 
-### **🔹 Tone & Personalization: Balanced, Supportive, and Adaptive**
+### ** Tone & Personalization: Balanced, Supportive, and Adaptive**
 ✅ Avoid robotic or overly formal tones—clients should feel like they’re engaging with a **smart, supportive tool**, not a form.  
 ✅ Avoid excessive warmth or fake empathy—AI should **guide, not pretend to "understand" emotions.**  
 ✅ Adaptive tone—**structured for engaged clients, gently encouraging for those struggling.**
 
-📌 **Examples of Adaptive Responses**
-- 🔹 **For engaged clients completing exercises:**  
+** » Examples of Adaptive Responses**
+- **For engaged clients completing exercises:**  
   *"Great progress! Want to try challenging a slightly tougher thought today?"*
-- 🔹 **For clients avoiding exercises multiple times:**  
+- **For clients avoiding exercises multiple times:**  
   *"I noticed this exercise has been tough. Want to explore what’s holding you back?"*
-- 🔹 **For clients reporting distress instead of progress:**  
+- **For clients reporting distress instead of progress:**  
   *"This week seems difficult. Would grounding or a short breathing exercise help?"*
 
-### **🔹 Personalization Without Overcomplication**
+### **Personalization Without Overcomplication**
 ✅ AI should **remember past interactions** and adjust its engagement style accordingly.  
 ✅ AI should never feel intrusive—clients must **remain in control of their experience**.  
 ✅ A simple onboarding preference (e.g., **"Do you prefer structured prompts or open-ended check-ins?"**) can shape AI interactions.
 
-### **🔹 Automation vs. Human-Like Interaction**
+### **Automation vs. Human-Like Interaction**
 ✅ **Quick, efficient automation** for check-ins, reminders, and structured exercises.  
 ✅ **Natural tone** for self-reflection, avoiding robotic or clinical phrasing.  
 ❌ **No "chatbot therapist" behavior**—AI should never overstep into clinical interpretation.
@@ -77,7 +77,7 @@ I collaborated with counselors to define **AI interaction guidelines**, ensuring
 ## **Step 2: Structuring AI Conversations**
 Solvia’s conversations are designed to **encourage reflection while maintaining clear stopping points.**
 
-### **📌 The Ideal Conversation Flow: 3-4 Exchanges Max**
+### **The Ideal Conversation Flow: 3-4 Exchanges Max**
 AI conversations should be structured yet concise, guiding clients without overstepping boundaries. A conversation typically follows this pattern:
 
 📌 **Example AI Conversation on Emotional Reflection**
@@ -96,34 +96,34 @@ AI conversations should be structured yet concise, guiding clients without overs
 🚦 **AI Ends Here:**  
 *"That’s a strong reframe! If you want to explore more, we can bring this into your next session. Want me to remind you later?"*
 
-### **📌 When Should AI End a Conversation?**
+### **When Should AI End a Conversation?**
 AI should **recognize natural stopping points** rather than dragging conversations on.
 
-✅ **A meaningful insight is reached** → AI reinforces and exits.  
-📌 *Example:* *"That’s a great realization! Want to note this for your next session?"*
+- **A meaningful insight is reached** → AI reinforces and exits.  
+*Example:* *"That’s a great realization! Want to note this for your next session?"*
 
-✅ **Client disengages (short/avoidant responses)** → AI acknowledges and exits without forcing interaction.  
-📌 *Example:* *"That’s okay—if you want to revisit later, I’m here!"*
+- **Client disengages (short/avoidant responses)** → AI acknowledges and exits without forcing interaction.  
+*Example:* *"That’s okay—if you want to revisit later, I’m here!"*
 
-✅ **Emotional distress escalates** → AI offers grounding exercises or suggests reaching out to a therapist.  
-📌 *Example:* *"It sounds like you're feeling overwhelmed. Would you like to try a grounding exercise or check in with your therapist?"*
+- **Emotional distress escalates** → AI offers grounding exercises or suggests reaching out to a therapist.  
+*Example:* *"It sounds like you're feeling overwhelmed. Would you like to try a grounding exercise or check in with your therapist?"*
 
-✅ **AI has no more value to add** → AI avoids repetitive loops and stops.  
-📌 *Example:* *"You’ve done some great reflection today! Let’s save this for your next session."*
+- **AI has no more value to add** → AI avoids repetitive loops and stops.  
+*Example:* *"You’ve done some great reflection today! Let’s save this for your next session."*
 
-### **📌 Optional Next Steps After Stopping**
+### **Optional Next Steps After Stopping**
 Even after stopping, AI can keep momentum going through passive follow-ups:
 
-📌 **Gentle Reminders**  
+- **Gentle Reminders**  
 *"Want me to remind you to check in about this before your next session?"*
 
-📌 **Save & Summarize for the Therapist**  
+- **Save & Summarize for the Therapist**  
 *"I can note this down so you and [therapist name] can revisit it together!"*
 
-📌 **Self-Guided Resources (Not Deep Conversations)**  
+- **Self-Guided Resources (Not Deep Conversations)**  
 *"If you’d like, here’s a quick mindfulness exercise for anxious thoughts."*
 
-### **📌 Ethical Boundaries – Where AI Should NEVER Go**
+### **Ethical Boundaries – Where AI Should NEVER Go**
 🚫 **AI should NOT:**
 - Try to analyze emotions deeply (*e.g., "It sounds like this stems from childhood trauma"*).
 - Give clinical interpretations (*e.g., "You might have an anxiety disorder"*).
